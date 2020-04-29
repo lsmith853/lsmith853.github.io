@@ -1,1 +1,1 @@
-[GitHub](http://github.com)
+[My Resume](https://lsmith853.github.io/resume.html)
